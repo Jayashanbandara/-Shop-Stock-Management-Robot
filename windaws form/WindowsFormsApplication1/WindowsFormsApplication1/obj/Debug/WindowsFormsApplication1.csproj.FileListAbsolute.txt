@@ -1,0 +1,16 @@
+F:\acadamic\semester 4\Individual Project\windaws form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\acadamic\semester 4\Individual Project\windaws form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\acadamic\semester 4\Individual Project\windaws form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\acadamic\semester 4\Individual Project\windaws form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\acadamic\semester 4\Individual Project\windaws form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\acadamic\semester 4\Individual Project\windaws form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\acadamic\semester 4\Individual Project\windaws form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\acadamic\semester 4\Individual Project\windaws form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\acadamic\electrical engineering\semester 4\Individual Project\windaws form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\acadamic\electrical engineering\semester 4\Individual Project\windaws form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\acadamic\electrical engineering\semester 4\Individual Project\windaws form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\acadamic\electrical engineering\semester 4\Individual Project\windaws form\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\acadamic\electrical engineering\semester 4\Individual Project\windaws form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\acadamic\electrical engineering\semester 4\Individual Project\windaws form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\acadamic\electrical engineering\semester 4\Individual Project\windaws form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\acadamic\electrical engineering\semester 4\Individual Project\windaws form\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

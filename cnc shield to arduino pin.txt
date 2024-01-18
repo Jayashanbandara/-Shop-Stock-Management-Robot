@@ -1,0 +1,35 @@
+X.STEP is connected with the Arduino’s pin number 2.
+
+Y.STEP is connected with the Arduino’s pin number 3.
+
+Z.STEP is connected with the Arduino’s pin number 4.
+
+X.DIR is connected with the Arduino’s pin number 5
+
+Y.DIR is connected with the Arduino’s pin number 6
+
+Z.DIR is connected with the Arduino’s pin number 7
+
+Pin number 8 is not connected.
+
+Pin number 9 of the Arduino is connected with the X- and X+ pins of the CNC Shield.
+
+Pin number 10 of the Arduino is connected with the Y- and Y+ pins of the CNC Shield.
+
+Pin number 11 of the Arduino is connected with the Z- and Z+ pins of the CNC Shield.
+
+Pin number 12 of the Arduino is connected with the SpnEn pin of the CNC Shield.
+
+Pin number 13 of the Arduino is connected with the SpnDir pin of the CNC Shield.
+
+A0 analog pin of the Arduino is connected with the Abort pin of the CNC shield.
+
+A1 analog pin of the Arduino is connected with the Hold pin of the CNC shield.
+
+A2 analog pin of the Arduino is connected with the Resume pin of the CNC shield.
+
+A3 analog pin of the Arduino is connected with the CoolEn pin of the CNC shield.
+
+A4 analog pin of the Arduino is connected with the SDA pin of the CNC shield.
+
+A5 analog pin of the Arduino is connected with the SCL pin of the CNC shield.
